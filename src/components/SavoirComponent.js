@@ -64,7 +64,7 @@ const styles = StyleSheet.create({
     },
     paragraph: {
         fontSize: 20,
-        textAlign: 'justify',
+        textAlignVertical: 'center',
         color: '#F8F9FA',
     }
 });
